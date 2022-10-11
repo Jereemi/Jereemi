@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jereemi
+- 👋 Hi, I’m @Jerry
 - 👀 I’m interested in solving complex problems 
-- 🌱 I’m currently learning new frameworks
-- 📫 How to reach me: Contact - +91 9774917693, Email - jereemibentham@gmail.com 
+- 🌱 Senior Software Developer
+- 📫 How to reach me: Contact - +91 977*******, Email - jereemibentham@gmail.com 
 
 <!---
 Jereemi/Jereemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
