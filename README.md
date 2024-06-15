@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jerry
+- 👋 Hi, I’m @Jereemi Bentham
 - 👀 I’m interested in solving complex problems 
 - 🌱 Senior Software Developer
 - 📫 How to reach me: Contact - +91 977*******, Email - jereemibentham@gmail.com 
